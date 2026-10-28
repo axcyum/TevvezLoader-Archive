@@ -1,3 +1,5 @@
+English | [日本語](README.ja.md)
+
 > [!IMPORTANT]
 > The modified DLL for the EOS SDK has a broken link.<br>
 > The authentication server will never be opened again.<br>
