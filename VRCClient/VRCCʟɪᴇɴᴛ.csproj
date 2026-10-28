@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>VRClient</RootNamespace>
+    <AssemblyName>TevvezCheats</AssemblyName>
+    <OutputType>Library</OutputType>
+	  <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="Costura.Fody" Version="6.0.0">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+	  </PackageReference>
+	  <PackageReference Include="HarmonyX" Version="2.16.1" />
+	  <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+	  <PackageReference Include="System.Security.Cryptography.Algorithms" Version="4.3.1" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Modules\Udon\" />
+    <Folder Include="SDK\VRCs\ButtonAPI\misc\" />
+  </ItemGroup>
+	
+</Project>
