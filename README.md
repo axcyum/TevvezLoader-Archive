@@ -4,7 +4,7 @@
 - Fully Open Source
 
 ## Discord:
-- discord.gg/8MvQgfnfvJ
+- discord.gg/8MvQgfnfvJ(Deleted Server R.I.P)
 
 ## How to Use:
 - Open it
