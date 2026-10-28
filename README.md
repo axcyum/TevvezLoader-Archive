@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > The modified DLL for the EOS SDK has a broken link.<br>
 > The authentication server will never be opened again.<br>
-> Farewell, teevez Client RIP.
+> Farewell, tevvez Client RIP.
 # TevvezLoader
 - Windows 10/11 Support
 - No VM required.
