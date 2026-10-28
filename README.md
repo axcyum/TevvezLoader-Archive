@@ -9,7 +9,7 @@
 
 ## social:
 - discord.gg/8MvQgfnfvJ (Deleted Server)
-- https://t.me/+Ba98xQhu8MIzMjBi (same)
+- t.me/+Ba98xQhu8MIzMjBi (same)
 
 ## How to Use:
 - Open it
