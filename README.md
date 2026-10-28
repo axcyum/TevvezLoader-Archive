@@ -1,10 +1,15 @@
+> [!IMPORTANT]
+> The modified DLL for the EOS SDK has a broken link.<br>
+> The authentication server will never be opened again.<br>
+> Farewell, teevez Client RIP.
 # TevvezLoader
 - Windows 10/11 Support
 - No VM required.
 - Fully Open Source
 
-## Discord:
-- discord.gg/8MvQgfnfvJ(Deleted Server R.I.P)
+## social:
+- discord.gg/8MvQgfnfvJ (Deleted Server)
+- https://t.me/+Ba98xQhu8MIzMjBi (same)
 
 ## How to Use:
 - Open it
